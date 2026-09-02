@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="21ca6f3f-b8a4-40f7-8c48-f98d379a2dd9.bin" source-language="ar" datatype="x-application/octet-stream" target-language="en-in">
+<body>
+<trans-unit id="1" resname="pg1-pr1" state="translated">
+<source xml:lang="ar">RAHUL BADYA</source><target>RAHUL BADYA</target>
+</trans-unit>
+<trans-unit id="2" resname="pg1-pr2" state="translated">
+<source xml:lang="ar">Senior Software Engineer | Accion Labs |Microsoft Technologies Expert</source><target>Senior Software Engineer | Accion Labs |Microsoft Technologies Expert</target>
+</trans-unit>
+<trans-unit id="3" resname="pg1-pr3" state="translated">
+<source xml:lang="ar">=��� Email: rahul.badya@accionlabs.com | =��� Phone: +91-7848873160 | =��� Bangalore,</source><target>=��� Email: rahul.badya@accionlabs.com | =��� Phone: +91-7848873160 | =��� Bangalore,</target>
+</trans-unit>
+<trans-unit id="4" resname="pg1-pr4" state="translated">
+<source xml:lang="ar">Karnataka =� � LinkedIn: rahulbadya916@gmail.com</source><target>Karnataka =� LinkedIn: rahulbadya916@gmail.com</target>
+</trans-unit>
+<trans-unit id="5" resname="pg1-pr5" state="translated">
+<source xml:lang="ar">PROFESSIONAL SUMMARY</source><target>PROFESSIONAL SUMMARY</target>
+</trans-unit>
+<trans-unit id="6" resname="pg1-pr6" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="7" resname="pg1-pr7" state="translated">
+<source xml:lang="ar">Senior Software Engineer with 7+ years of experience in designing, developing, and</source><target>Senior Software Engineer with 7+ years of experience in designing, developing, and</target>
+</trans-unit>
+<trans-unit id="8" resname="pg1-pr8" state="translated">
+<source xml:lang="ar">maintaining scalable web applications using Microsoft technologies including .NET Core,</source><target>maintaining scalable web applications using Microsoft technologies including .NET Core,</target>
+</trans-unit>
+<trans-unit id="9" resname="pg1-pr9" state="translated">
+<source xml:lang="ar">ASP.NET MVC, Web API, Angular, and Azure. Strong expertise in full-stack development, API</source><target>ASP.NET MVC, Web API, Angular, and Azure. Strong expertise in full-stack development, API</target>
+</trans-unit>
+<trans-unit id="10" resname="pg1-pr10" state="translated">
+<source xml:lang="ar">integration, unit testing, and agile methodologies. Adept in delivering high-quality solutions</source><target>Integration, unit testing, and agile methodologies. Adept in delivering high-quality solutions</target>
+</trans-unit>
+<trans-unit id="11" resname="pg1-pr11" state="translated">
+<source xml:lang="ar">to enterprise clients like Dell, Microsoft, and Wipro. Proven track record of building secure,</source><target>to enterprise clients like Dell, Microsoft, and Wipro. Proven track record of building secure,</target>
+</trans-unit>
+<trans-unit id="12" resname="pg1-pr12" state="translated">
+<source xml:lang="ar">high-performing applications with attention to detail.</source><target>High-performing applications with attention to detail.</target>
+</trans-unit>
+<trans-unit id="13" resname="pg1-pr13" state="translated">
+<source xml:lang="ar">TECHNICAL SKILLS</source><target>Technical Skills</target>
+</trans-unit>
+<trans-unit id="14" resname="pg1-pr14" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="15" resname="pg1-pr15" state="translated">
+<source xml:lang="ar">Languages &amp; Frameworks: C#, .NET Core, ASP.NET MVC, Web API, Entity Framework, LINQ,</source><target>Languages &amp; Frameworks: C#, .NET Core, ASP.NET MVC, Web API, Entity Framework, LINQ,</target>
+</trans-unit>
+<trans-unit id="16" resname="pg1-pr16" state="translated">
+<source xml:lang="ar">JavaScript, TypeScript, Angular 8+, HTML, CSS, Bootstrap, jQuery</source><target>JavaScript, TypeScript, Angular 8+, HTML, CSS, Bootstrap, jQuery</target>
+</trans-unit>
+<trans-unit id="17" resname="pg1-pr17" state="translated">
+<source xml:lang="ar">Databases: SQL Server 2012/2018, Stored Procedures, T-SQL</source><target>Databases: SQL Server 2012/2018, Stored Procedures, T-SQL</target>
+</trans-unit>
+<trans-unit id="18" resname="pg1-pr18" state="translated">
+<source xml:lang="ar">Tools &amp; Platforms: Visual Studio 2012 2022, Azure DevOps, Git, GitLab, JIRA, Postman</source><target>Tools &amp; Platforms: Visual Studio 2012 2022, Azure DevOps, Git, GitLab, JIRA, Postman</target>
+</trans-unit>
+<trans-unit id="19" resname="pg1-pr19" state="translated">
+<source xml:lang="ar">Architecture &amp; Patterns: RESTful APIs, MVC, 3-Tier Architecture, OOPs, Design Patterns</source><target>Architecture &amp; Patterns: RESTful APIs, MVC, 3-Tier Architecture, OOPs, Design Patterns</target>
+</trans-unit>
+<trans-unit id="20" resname="pg1-pr20" state="translated">
+<source xml:lang="ar">Security: OWASP Top 10 Compliance, SQL Injection Prevention, XSS, CSRF Protection</source><target>Security: OWASP Top 10 Compliance, SQL Injection Prevention, XSS, CSRF Protection</target>
+</trans-unit>
+<trans-unit id="21" resname="pg1-pr21" state="translated">
+<source xml:lang="ar">PROFESSIONAL EXPERIENCE</source><target>PROFESSIONAL EXPERIENCE</target>
+</trans-unit>
+<trans-unit id="22" resname="pg1-pr22" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="23" resname="pg1-pr23" state="translated">
+<source xml:lang="ar">Accion Labs Pvt. Ltd. Senior Software Engineer June 2023 Present</source><target>Accion Labs Pvt. Ltd. Senior Software Engineer June 2023 Present</target>
+</trans-unit>
+<trans-unit id="24" resname="pg1-pr24" state="translated">
+<source xml:lang="ar">" Developed and consumed REST APIs for Dell's Virtual Assistant chatbot using .NET 8</source><target>"Developed and consumed REST APIs for Dell's Virtual Assistant chatbot using .NET 8</target>
+</trans-unit>
+<trans-unit id="25" resname="pg1-pr25" state="translated">
+<source xml:lang="ar">and JavaScript.</source><target>and JavaScript.</target>
+</trans-unit>
+<trans-unit id="26" resname="pg1-pr26" state="translated">
+<source xml:lang="ar">" Built business logic layers and integrated APIs with frontend interfaces.</source><target>Built business logic layers and integrated APIs with frontend interfaces.</target>
+</trans-unit>
+<trans-unit id="27" resname="pg1-pr27" state="translated">
+<source xml:lang="ar">" Wrote unit tests for backend logic ensuring &gt;90% code coverage.</source><target>" Wrote unit tests for backend logic ensuring &gt;90% code coverage.</target>
+</trans-unit>
+<trans-unit id="28" resname="pg1-pr28" state="translated">
+<source xml:lang="ar">" Contributed to feature design discussions and daily agile standups.</source><target>" Contributed to feature design discussions and daily agile standups.</target>
+</trans-unit>
+<trans-unit id="29" resname="pg1-pr29" state="translated">
+<source xml:lang="ar">" Tools: Visual Studio 2022, GitLab, JIRA</source><target>Tools: Visual Studio 2022, GitLab, JIRA</target>
+</trans-unit>
+<trans-unit id="30" resname="pg1-pr30" state="translated">
+<source xml:lang="ar">HARMAN Senior Software Engineer March 2022 Jan 2023</source><target>HARMAN Senior Software Engineer March 2022 Jan 2023</target>
+</trans-unit>
+<trans-unit id="31" resname="pg1-pr31" state="translated">
+<source xml:lang="ar">" Worked on enterprise apps for Microsoft s internal audit tools.</source><target>“Worked on enterprise apps for Microsoft’s internal audit tools.</target>
+</trans-unit>
+<trans-unit id="32" resname="pg1-pr32" state="translated">
+<source xml:lang="ar">" Migrated projects from .NET Core 3.0 to 6.0; upgraded all dependencies.</source><target>" Migrated projects from .NET Core 3.0 to 6.0; upgraded all dependencies.</target>
+</trans-unit>
+<trans-unit id="33" resname="pg2-pr33" state="translated">
+<source xml:lang="ar">" Implemented Web APIs and frontend UI using Angular 8.</source><target>“Implemented Web APIs and frontend UI using Angular 8.</target>
+</trans-unit>
+<trans-unit id="34" resname="pg2-pr34" state="translated">
+<source xml:lang="ar">" Tools: Azure DevOps, Git, Visual Studio 2022</source><target>Tools: Azure DevOps, Git, Visual Studio 2022</target>
+</trans-unit>
+<trans-unit id="35" resname="pg2-pr35" state="translated">
+<source xml:lang="ar">Technodysis Pvt. Ltd. Senior .NET Developer July 2021 March 2022</source><target>Technodysis Pvt. Ltd. Senior .NET Developer July 2021 March 2022</target>
+</trans-unit>
+<trans-unit id="36" resname="pg2-pr36" state="translated">
+<source xml:lang="ar">" Designed and developed Web APIs using .NET Core 5.0 and Azure.</source><target>“Designed and developed Web APIs using .NET Core 5.0 and Azure.</target>
+</trans-unit>
+<trans-unit id="37" resname="pg2-pr37" state="translated">
+<source xml:lang="ar">" Built search modules for user data queries and handled error logging.</source><target>Built search modules for user data queries and handled error logging.</target>
+</trans-unit>
+<trans-unit id="38" resname="pg2-pr38" state="translated">
+<source xml:lang="ar">" Created unit test cases and supported production deployment.</source><target>"Created unit test cases and supported production deployment.</target>
+</trans-unit>
+<trans-unit id="39" resname="pg2-pr39" state="translated">
+<source xml:lang="ar">AKAL Information Systems Ltd. Sr. Software Application Support Engineer</source><target>AKAL Information Systems Ltd. Sr. Software Application Support Engineer</target>
+</trans-unit>
+<trans-unit id="40" resname="pg2-pr40" state="translated">
+<source xml:lang="ar">Apr 2020 June 2021</source><target>Apr 2020 June 2021</target>
+</trans-unit>
+<trans-unit id="41" resname="pg2-pr41" state="translated">
+<source xml:lang="ar">" Provided L2 support for financial aid and scholarship systems.</source><target>“Provided L2 support for financial aid and scholarship systems.</target>
+</trans-unit>
+<trans-unit id="42" resname="pg2-pr42" state="translated">
+<source xml:lang="ar">" Improved UI and backend logic based on user feedback and policy updates.</source><target>"Improved UI and backend logic based on user feedback and policy updates.</target>
+</trans-unit>
+<trans-unit id="43" resname="pg2-pr43" state="translated">
+<source xml:lang="ar">SISL Infotech Pvt. Ltd. Software Application Support L2 May 2017 March</source><target>SISL Infotech Pvt. Ltd. Software Application Support L2 May 2017 March</target>
+</trans-unit>
+<trans-unit id="44" resname="pg2-pr44" state="translated">
+<source xml:lang="ar">2020</source><target>2020</target>
+</trans-unit>
+<trans-unit id="45" resname="pg2-pr45" state="translated">
+<source xml:lang="ar">" Supported public web portals for Odisha Vidhan Sabha.</source><target>“Supported public web portals for Odisha Vidhan Sabha.</target>
+</trans-unit>
+<trans-unit id="46" resname="pg2-pr46" state="translated">
+<source xml:lang="ar">" Maintained and enhanced .NET-based apps handling public data.</source><target>“Maintained and enhanced .NET-based apps handling public data.</target>
+</trans-unit>
+<trans-unit id="47" resname="pg2-pr47" state="translated">
+<source xml:lang="ar">KEY PROJECTS</source><target>KEY PROJECTS</target>
+</trans-unit>
+<trans-unit id="48" resname="pg2-pr48" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="49" resname="pg2-pr49" state="translated">
+<source xml:lang="ar">Quote Migration (Dell)</source><target>Quote Migration (Dell)</target>
+</trans-unit>
+<trans-unit id="50" resname="pg2-pr50" state="translated">
+<source xml:lang="ar">" Role: Full Stack Developer</source><target>Role: Full Stack Developer</target>
+</trans-unit>
+<trans-unit id="51" resname="pg2-pr51" state="translated">
+<source xml:lang="ar">" Tech: .NET 8, C#, JavaScript, Web API, GitLab, JIRA</source><target>Tech: .NET 8, C#, JavaScript, Web API, GitLab, JIRA</target>
+</trans-unit>
+<trans-unit id="52" resname="pg2-pr52" state="translated">
+<source xml:lang="ar">" Description: Migration of Active , Expired and Quoted Quote from old co quote to</source><target>" Description: Migration of Active, Expired and Quoted Quote from old co quote to</target>
+</trans-unit>
+<trans-unit id="53" resname="pg2-pr53" state="translated">
+<source xml:lang="ar">new co quote system of Dell.</source><target>Dell's new co-quote system.</target>
+</trans-unit>
+<trans-unit id="54" resname="pg2-pr54" state="translated">
+<source xml:lang="ar">Virtual Assistant (Dell.com)</source><target>Virtual Assistant (Dell.com)</target>
+</trans-unit>
+<trans-unit id="55" resname="pg2-pr55" state="translated">
+<source xml:lang="ar">" Role: Full Stack Developer</source><target>Role: Full Stack Developer</target>
+</trans-unit>
+<trans-unit id="56" resname="pg2-pr56" state="translated">
+<source xml:lang="ar">" Tech: .NET 8, C#, JavaScript, Web API, GitLab, JIRA</source><target>Tech: .NET 8, C#, JavaScript, Web API, GitLab, JIRA</target>
+</trans-unit>
+<trans-unit id="57" resname="pg2-pr57" state="translated">
+<source xml:lang="ar">" Description: A chatbot integrated across Dell.com pages for real-time assistance to</source><target>" Description: A chatbot integrated across Dell.com pages for real-time assistance to</target>
+</trans-unit>
+<trans-unit id="58" resname="pg2-pr58" state="translated">
+<source xml:lang="ar">users.</source><target>users.</target>
+</trans-unit>
+<trans-unit id="59" resname="pg2-pr59" state="translated">
+<source xml:lang="ar">Contact Support Warranty Page (Dell)</source><target>Contact Support Warranty Page (Dell)</target>
+</trans-unit>
+<trans-unit id="60" resname="pg2-pr60" state="translated">
+<source xml:lang="ar">" Implemented and tested business services for product warranty inquiries.</source><target>" Implemented and tested business services for product warranty inquiries.</target>
+</trans-unit>
+<trans-unit id="61" resname="pg2-pr61" state="translated">
+<source xml:lang="ar">" Optimized data access logic and service communication.</source><target>"Optimized data access logic and service communication.</target>
+</trans-unit>
+<trans-unit id="62" resname="pg2-pr62" state="translated">
+<source xml:lang="ar">Entity Mapping &amp; IA Deal (HARMAN- Microsoft)</source><target>Entity Mapping &amp; IA Deal (HARMAN- Microsoft)</target>
+</trans-unit>
+<trans-unit id="63" resname="pg2-pr63" state="translated">
+<source xml:lang="ar">" Migrated applications to .NET Core 6.0; updated all dependent packages.</source><target>"Migrated applications to .NET Core 6.0; updated all dependent packages.</target>
+</trans-unit>
+<trans-unit id="64" resname="pg2-pr64" state="translated">
+<source xml:lang="ar">" Developed new modules and APIs to enhance audit tools.</source><target>“Developed new modules and APIs to enhance audit tools.</target>
+</trans-unit>
+<trans-unit id="65" resname="pg2-pr65" state="translated">
+<source xml:lang="ar">PDB Search (RegEd)</source><target>PDB Search (RegEd)</target>
+</trans-unit>
+<trans-unit id="66" resname="pg2-pr66" state="translated">
+<source xml:lang="ar">" Built .NET Core 5.0 APIs for parameter-based user search operations.</source><target>Built .NET Core 5.0 APIs for parameter-based user search operations.</target>
+</trans-unit>
+<trans-unit id="67" resname="pg2-pr67" state="translated">
+<source xml:lang="ar">" Enabled faster retrieval and processing using optimized queries.</source><target>"Enabled faster retrieval and processing using optimized queries.</target>
+</trans-unit>
+<trans-unit id="68" resname="pg3-pr68" state="translated">
+<source xml:lang="ar">HOMES (FAST) Wipro</source><target>HOMES (FAST) Wipro</target>
+</trans-unit>
+<trans-unit id="69" resname="pg3-pr69" state="translated">
+<source xml:lang="ar">" Enhanced frontend UI and backend APIs to support new features.</source><target>"Enhanced frontend UI and backend APIs to support new features.</target>
+</trans-unit>
+<trans-unit id="70" resname="pg3-pr70" state="translated">
+<source xml:lang="ar">" Developed both UI and backend logic in ASP.NET MVC + Angular.</source><target>“Developed both UI and backend logic in ASP.NET MVC + Angular.</target>
+</trans-unit>
+<trans-unit id="71" resname="pg3-pr71" state="translated">
+<source xml:lang="ar">Odisha Legislative Assembly (NIC OLA)</source><target>Odisha Legislative Assembly (NIC OLA)</target>
+</trans-unit>
+<trans-unit id="72" resname="pg3-pr72" state="translated">
+<source xml:lang="ar">" Developed features to expose Assembly-related data to the public.</source><target>"Developed features to expose Assembly-related data to the public.</target>
+</trans-unit>
+<trans-unit id="73" resname="pg3-pr73" state="translated">
+<source xml:lang="ar">" Handled frequent code changes and updates based on NIC directives.</source><target>Handled frequent code changes and updates based on NIC directives.</target>
+</trans-unit>
+<trans-unit id="74" resname="pg3-pr74" state="translated">
+<source xml:lang="ar">Question Information System Odisha Vidhan Sabha</source><target>Question Information System Odisha Vidhan Sabha</target>
+</trans-unit>
+<trans-unit id="75" resname="pg3-pr75" state="translated">
+<source xml:lang="ar">" Developed data entry system for Assembly Questions in Odia (Unicode).</source><target>"Developed data entry system for Assembly Questions in Odia (Unicode).</target>
+</trans-unit>
+<trans-unit id="76" resname="pg3-pr76" state="translated">
+<source xml:lang="ar">" Created stored procedures, business components, and custom reports.</source><target>"Created stored procedures, business components, and custom reports.</target>
+</trans-unit>
+<trans-unit id="77" resname="pg3-pr77" state="translated">
+<source xml:lang="ar">EDUCATION</source><target>EDUCATION</target>
+</trans-unit>
+<trans-unit id="78" resname="pg3-pr78" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="79" resname="pg3-pr79" state="translated">
+<source xml:lang="ar">Bachelor of Technology in Computer Science &amp; Engineering | August 2012 Nov 2016</source><target>Bachelor of Technology in Computer Science &amp; Engineering | August 2012 November 2016</target>
+</trans-unit>
+<trans-unit id="80" resname="pg3-pr80" state="translated">
+<source xml:lang="ar">" Bhubaneswar Engineering College | Biju Patnaik University of Technology, Odisha</source><target>Bhubaneswar Engineering College | Biju Patnaik University of Technology, Odisha</target>
+</trans-unit>
+<trans-unit id="81" resname="pg3-pr81" state="translated">
+<source xml:lang="ar">60%</source><target>60%</target>
+</trans-unit>
+<trans-unit id="82" resname="pg3-pr82" state="translated">
+<source xml:lang="ar">Intermediate (Science)</source><target>Intermediate (Science)</target>
+</trans-unit>
+<trans-unit id="83" resname="pg3-pr83" state="translated">
+<source xml:lang="ar">KPS, Gaya 48%</source><target>KPS, Gaya 48%</target>
+</trans-unit>
+<trans-unit id="84" resname="pg3-pr84" state="translated">
+<source xml:lang="ar">Matriculation</source><target>Matriculation</target>
+</trans-unit>
+<trans-unit id="85" resname="pg3-pr85" state="translated">
+<source xml:lang="ar">Amas High School, Gaya 65%</source><target>Amas High School, Gaya 65%</target>
+</trans-unit>
+<trans-unit id="86" resname="pg3-pr86" state="translated">
+<source xml:lang="ar">CERTIFICATIONS</source><target>CERTIFICATIONS</target>
+</trans-unit>
+<trans-unit id="87" resname="pg3-pr87" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="88" resname="pg3-pr88" state="translated">
+<source xml:lang="ar">" Microsoft Certified: Azure Fundamentals AZ-900</source><target>Microsoft Certified: Azure Fundamentals AZ-900</target>
+</trans-unit>
+<trans-unit id="89" resname="pg3-pr89" state="translated">
+<source xml:lang="ar">ADDITIONAL INFORMATION</source><target>ADDITIONAL INFORMATION</target>
+</trans-unit>
+<trans-unit id="90" resname="pg3-pr90" state="translated">
+<source xml:lang="ar">P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</source><target>P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%</target>
+</trans-unit>
+<trans-unit id="91" resname="pg3-pr91" state="translated">
+<source xml:lang="ar">" Languages Known: English, Hindi, Odia</source><target>“Languages Known: English, Hindi, Odia</target>
+</trans-unit>
+<trans-unit id="92" resname="pg3-pr92" state="translated">
+<source xml:lang="ar">" Strengths: Adaptable, Responsible, Detail-Oriented, Good Listener, Creative,</source><target>Strengths: Adaptable, Responsible, Detail-Oriented, Good Listener, Creative,</target>
+</trans-unit>
+<trans-unit id="93" resname="pg3-pr93" state="translated">
+<source xml:lang="ar">Punctual</source><target>Punctual</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
